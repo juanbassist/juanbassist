@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @juanbassist
+- 👀 I’m interested in systems architectures and automated integrations
+- 🌱 I’m currently learning cloud integrations with on premise core systems
+- 📫 How to reach me private Githhub MSG
